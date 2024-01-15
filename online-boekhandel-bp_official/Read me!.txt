@@ -1,0 +1,6 @@
+Opdracht 2
+
+Een maven applicatie bouwen met de hibernate dependency erin.
+Maak 2 java domain models met een one to many of one to one mapping.
+Maak de jdbc connectie door middel van hibernate configuratie (hoofdstuk 2 in boek)
+Persist een object.
